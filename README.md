@@ -1,3 +1,5 @@
+[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu)
+
 ## 介绍
 
 ansible是一个基于SSH协议的自动化部署工具，但官网提供的例子大多都是在命令行下执行的，
@@ -82,3 +84,5 @@ web应用不会被hang住，真正的任务执行是celery执行的。
 
 - [自动化运维工具之ansible](http://guoting.blog.51cto.com/8886857/1553446)
 - [配置管理工具之Ansible视频教程(共10课时)_](http://edu.51cto.com/index.php?do=lession&id=38985)
+
+[![LICENSE](https://img.shields.io/badge/license-NPL%20(The%20996%20Prohibited%20License)-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
